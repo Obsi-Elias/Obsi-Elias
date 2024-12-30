@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **FindReactJobs**
 
-- 🌱 I’m currently learning **Vue, Node js, Next js**
+- 🌱 I’m currently learning **Vue, Next js**
 
 - 📫 How to reach me **obsielias2019@gmail.com**
 
